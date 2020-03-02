@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0d95c5f9-9462-4b48-8e6b-f7dc7f34d16b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "critassess_Artboard 3 copy": {
+      "ver": "1.0.4",
+      "uuid": "69c6a2e0-180e-4eab-a8bd-c2aa15ae3b57",
+      "rawTextureUuid": "0d95c5f9-9462-4b48-8e6b-f7dc7f34d16b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1297,
+      "height": 577,
+      "rawWidth": 1297,
+      "rawHeight": 577,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

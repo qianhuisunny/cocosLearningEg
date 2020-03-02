@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../.CocosCreator/packages/story-master/.CocosCreator/packages/story-master/code/core/LocalStorage.js"],"names":["module","exports"],"mappings":";;;;;;AAAAA,OAAOC,OAAP,GAAe,EAAf","file":"LocalStorage.js","sourceRoot":"../../../../../../../.CocosCreator/packages/story-master/code/core","sourcesContent":["module.exports={};"]}

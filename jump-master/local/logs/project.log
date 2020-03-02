@@ -1,0 +1,71 @@
+2019-08-27T02:19:04.590Z - normal: Load ~/.CocosCreator/settings.json
+2019-08-27T02:19:04.651Z - normal: Initializing Asset Database
+2019-08-27T02:19:04.653Z - normal: checking language setting...
+2019-08-27T02:19:04.654Z - normal: Language: zh
+2019-08-27T02:19:05.506Z - success: preview server running at http://localhost:7457
+2019-08-27T02:19:05.518Z - success: protocol editor-framework registered
+2019-08-27T02:19:05.518Z - success: protocol app registered
+2019-08-27T02:19:05.518Z - success: protocol theme registered
+2019-08-27T02:19:05.518Z - success: protocol packages registered
+2019-08-27T02:19:05.519Z - success: protocol uuid registerred
+2019-08-27T02:19:05.519Z - success: protocol db registerred
+2019-08-27T02:19:05.519Z - success: protocol thumbnail registerred
+2019-08-27T02:19:05.519Z - success: protocol unpack registerred
+2019-08-27T02:19:05.519Z - success: protocol disable-commonjs registerred
+2019-08-27T02:19:07.484Z - normal: connected!
+2019-08-27T02:19:07.485Z - normal: Check project /Users/qianhui/Desktop/jump-master
+2019-08-27T02:19:07.486Z - normal: Initializing project /Users/qianhui/Desktop/jump-master
+2019-08-27T02:19:07.889Z - normal: Initializing Cocos2d
+2019-08-27T02:19:08.697Z - normal: Initializing engine extends
+2019-08-27T02:19:08.723Z - success: asset-db-debugger loaded
+2019-08-27T02:19:08.725Z - success: baidu-adapter loaded
+2019-08-27T02:19:08.727Z - success: color-picker loaded
+2019-08-27T02:19:08.830Z - success: fb-audience-network loaded
+2019-08-27T02:19:08.898Z - success: fb-live-stream loaded
+2019-08-27T02:19:08.905Z - success: google-play-instant loaded
+2019-08-27T02:19:08.916Z - success: huawei-runtime loaded
+2019-08-27T02:19:09.223Z - success: cpk-publish loaded
+2019-08-27T02:19:09.225Z - success: jsb-adapter loaded
+2019-08-27T02:19:09.233Z - success: oppo-runtime loaded
+2019-08-27T02:19:09.240Z - success: package-manager loaded
+2019-08-27T02:19:09.388Z - success: qqplay-adapter loaded
+2019-08-27T02:19:09.392Z - success: runtime-dev-tools loaded
+2019-08-27T02:19:09.399Z - success: sdkbox loaded
+2019-08-27T02:19:09.406Z - success: tester loaded
+2019-08-27T02:19:09.411Z - success: ui-grid loaded
+2019-08-27T02:19:09.417Z - success: ui-kit-preview-extra loaded
+2019-08-27T02:19:09.422Z - success: ui-kit-preview loaded
+2019-08-27T02:19:09.429Z - success: ui-kit loaded
+2019-08-27T02:19:09.433Z - success: ui-tree loaded
+2019-08-27T02:19:09.441Z - success: vivo-runtime loaded
+2019-08-27T02:19:09.443Z - success: weapp-adapter loaded
+2019-08-27T02:19:09.447Z - success: xiaomi-adapter loaded
+2019-08-27T02:19:09.487Z - success: assets loaded
+2019-08-27T02:19:09.491Z - success: builder loaded
+2019-08-27T02:19:09.781Z - success: cocos-services loaded
+2019-08-27T02:19:09.787Z - success: console loaded
+2019-08-27T02:19:09.815Z - success: fb-instant-games loaded
+2019-08-27T02:19:09.816Z - success: google-instant-games loaded
+2019-08-27T02:19:09.821Z - success: hierarchy loaded
+2019-08-27T02:19:09.826Z - success: inspector loaded
+2019-08-27T02:19:09.828Z - success: keystore loaded
+2019-08-27T02:19:09.834Z - success: node-library loaded
+2019-08-27T02:19:09.836Z - success: package-asset loaded
+2019-08-27T02:19:09.838Z - success: preferences loaded
+2019-08-27T02:19:09.841Z - success: project-exporter loaded
+2019-08-27T02:19:09.846Z - success: project-importer loaded
+2019-08-27T02:19:09.849Z - success: project-settings loaded
+2019-08-27T02:19:09.853Z - success: scene loaded
+2019-08-27T02:19:09.855Z - success: simulator-debugger loaded
+2019-08-27T02:19:09.856Z - success: sprite-editor loaded
+2019-08-27T02:19:09.860Z - success: store loaded
+2019-08-27T02:19:09.867Z - success: timeline loaded
+2019-08-27T02:19:09.873Z - success: xiaomi-runtime loaded
+2019-08-27T02:19:09.889Z - failed: Failed to load panel "panel.test" from "story-master", main file "panel-test/index.js" not found.
+2019-08-27T02:19:09.892Z - success: story-master loaded
+2019-08-27T02:19:12.682Z - normal: Loading packages
+2019-08-27T02:19:12.690Z - normal: Watching packages
+2019-08-27T02:19:12.798Z - normal: Run Application
+2019-08-27T02:19:15.253Z - info: Cocos Services load base data!
+2019-08-27T02:19:19.430Z - warn: [object Object]: playButtons not initialized
+2019-08-27T02:31:38.454Z - info: shutdown preview server

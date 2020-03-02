@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4f586975-d256-49e1-899d-26369ee10d2e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "goTraccker-02": {
+      "ver": "1.0.4",
+      "uuid": "c473fd86-2bb9-4fe0-bb0d-c0d16ec779ed",
+      "rawTextureUuid": "4f586975-d256-49e1-899d-26369ee10d2e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1296,
+      "height": 576,
+      "rawWidth": 1296,
+      "rawHeight": 576,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
